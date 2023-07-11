@@ -1,4 +1,11 @@
-# morethan-log
+# Samynhn (Tech) Blogs
+
+<p align="center"><strong>This blog will document my study notes, learning experiences, technical articles, as well as track my career development progress, personal emotions, and other useful articles.<strong></p>
+
+<h5 align="center"><a href="https://samynhn-github-io.vercel.app/">Get it here</a></h5>
+
+## Template
+> This template is based on [morethan-log](https://github.com/morethanmin/morethan-log)
 
 <img width="1715" alt="image" src="https://user-images.githubusercontent.com/72514247/209824600-ca9c8acc-6d2d-4041-9931-43e34b8a9a5f.png">
 
